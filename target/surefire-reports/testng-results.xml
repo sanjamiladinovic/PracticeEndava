@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75974" started-at="2020-02-11T12:34:52 CET" finished-at="2020-02-11T12:36:08 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75974" started-at="2020-02-11T12:34:52 CET" finished-at="2020-02-11T12:36:08 CET">
+      <class name="endava.EndavaUniversityHomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:endava.EndavaUniversityHomePage@548d708a]" name="initialize" is-config="true" duration-ms="3357" started-at="2020-02-11T12:34:53 CET" finished-at="2020-02-11T12:34:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="startPageNavigation(java.lang.String, java.lang.String)[pri:0, instance:endava.EndavaUniversityHomePage@548d708a]" name="startPageNavigation" duration-ms="33443" started-at="2020-02-11T12:34:56 CET" data-provider="getData" finished-at="2020-02-11T12:35:29 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanja.miladinovic]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8@7Marker8@7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startPageNavigation -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:endava.EndavaUniversityHomePage@548d708a]" name="initialize" is-config="true" duration-ms="3134" started-at="2020-02-11T12:35:29 CET" finished-at="2020-02-11T12:35:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="startPageNavigation(java.lang.String, java.lang.String)[pri:0, instance:endava.EndavaUniversityHomePage@548d708a]" name="startPageNavigation" duration-ms="33694" started-at="2020-02-11T12:35:32 CET" data-provider="getData" finished-at="2020-02-11T12:36:06 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanja.miladinovic]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8@7Marker8@7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startPageNavigation -->
+        <test-method status="PASS" signature="tesrdown()[pri:0, instance:endava.EndavaUniversityHomePage@548d708a]" name="tesrdown" is-config="true" duration-ms="2318" started-at="2020-02-11T12:36:06 CET" finished-at="2020-02-11T12:36:08 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesrdown -->
+      </class> <!-- endava.EndavaUniversityHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
