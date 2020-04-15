@@ -58,6 +58,7 @@ public class EndavaUniversityHomePage extends BaseClass {
 
 	@DataProvider
 	public Object[][] getData() {
+		
 
 		// rows=how many different data types test should run-prva kucica
 		// columns=how many values per each test- druga
